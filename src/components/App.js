@@ -7,5 +7,5 @@ return(
 )
 }
 
-default export App;
+export default App;
 
